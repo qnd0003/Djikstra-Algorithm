@@ -3,8 +3,7 @@ Usage:
   go run main.go ./graphfile
  
 graph file:
-  undirected graph
-  three fields, first and second the is the nodes, and the third field is the vertices number
+  undirected graph with three fields, first and second column are the nodes, and the third field is the vertices number
   example,
   
   A B 9
