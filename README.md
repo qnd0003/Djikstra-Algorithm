@@ -4,7 +4,7 @@ Shortest path between two nodes using Djikstra Algorithm.
 
 ### Data
 
-This will take in an undirected graph file with three fields. The first two fields are the nodes and the last field is the vertices between the two nodes. See [example graph](###Example file) below.
+This will take in an undirected graph file with three fields. The first two fields are the nodes and the last field is the vertices between the two nodes. See [example graph](###example-file) below.
 
 ## Example file
 
